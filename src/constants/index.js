@@ -64,10 +64,10 @@ import {
       name: "React JS",
       icon: reactjs,
     },
-    // {
-    //   name: "Redux Toolkit",
-    //   icon: redux,
-    // },
+    {
+      name: "Redux Toolkit",
+      icon: redux,
+    },
     {
       name: "Tailwind CSS",
       icon: tailwind,
@@ -103,12 +103,9 @@ import {
     {
       title: "Website developer",
       company_name: "godyanmic",
-      icon: starbucks,
       iconBg: "#383E56",
       date: "july 2023",
-      points: [
- 
-      ]
+       
     }
   ];
   
